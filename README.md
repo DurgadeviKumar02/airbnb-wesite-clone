@@ -16,7 +16,7 @@ CSS: For styling and layout.
 
 **Clone this repository:**
 
-git clone https://github.com/your-username/airbnb-website-clone.git
+git clone :https://durgadevikumar02.github.io/airbnb-wesite-clone/
 Open the index.html file in your preferred web browser.
 
 **Contributing**
